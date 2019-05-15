@@ -10,7 +10,7 @@ $`git clone https://github.com/solonkoolesya/metrics.git`
 
 **Usage**
 
-____As a plain script:____
+_____As a plain script_:____
 
 You need only _metric.py_ file. Make sure that python3 is installed on your machine.
 Make sure that file is executable.
@@ -35,7 +35,7 @@ For retrieving memory info:
 
 ****_In the Docker continer:_****
 
-It haven't pythont and pip packages installed in your OS. 
+It's needn't python and pip packages installed in your OS.
 For building image run on working directory:
 
 `$ docker build -t mymetr .`
