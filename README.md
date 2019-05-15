@@ -14,12 +14,12 @@ _____As a plain script_:____
 
 You need only _metric.py_ file. Make sure that python3 is installed on your machine.
 Make sure that file is executable.
+`$ cd metrics`
+`$ chmod +x metrics.py`
 
 Run:
 
 `$ pip install psutil argparse` 
-
-`$ cd metrics`
 
 Help:
 
